@@ -2,7 +2,7 @@ Msimamisi Mwandla
 MWNMSI001
 16/08/2022
 
-PROGRAMS CONTAINED IN THIS FOLDER
+PROGRAMS CONTAINED IN THIS REPOSITORY
         1. Serial Mean Filter
         2. Parallel Mean Filter
         3. Serial Median Filter
